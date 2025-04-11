@@ -1,0 +1,195 @@
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 37,335533
+--------------------------------
+Method: Metoda trapezów
+Result: 37,333333
+--------------------------------
+Method: Metoda trapezów
+Result: 32,200000
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 57,000000
+--------------------------------
+Method: Metoda prostok¹tów
+Result: -nan(ind)
+--------------------------------
+Method: Metoda prostok¹tów
+Result: -nan(ind)
+--------------------------------
+Method: Metoda prostok¹tów
+Result: -nan(ind)
+--------------------------------
+Method: Metoda prostok¹tów
+Result: -nan(ind)
+--------------------------------
+Method: Metoda prostok¹tów
+Result: -nan(ind)
+--------------------------------
+Method: Metoda prostok¹tów
+Result: -nan(ind)
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 34,000595
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 34,000595
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 16,029000
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 16,000120
+--------------------------------
+Method: Metoda trapezów
+Result: 34,000000
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 20,250495
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 20,250094
+--------------------------------
+Method: Metoda trapezów
+Result: 20,250000
+--------------------------------
+Method: Metoda trapezów
+Result: 20,250028
+--------------------------------
+Method: Metoda trapezów
+Result: 20,250028
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 20,177190
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,000000
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 20,161350
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 25,877568
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,000000
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,000000
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,000000
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 25,859904
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 25,848768
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 25,459200
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 2,529849
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 1315949,026078
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 0,542223
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 1,565495
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,136137
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,518766
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,019802
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 0,928882
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,019584
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,004814
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,020128
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,019768
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,019945
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,019787
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,019728
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 1,123481
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,040151
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,075755
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,073007
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 3,677795
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 5,134131
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 1,231286
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,286754
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,503943
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 2,285584
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 10,094682
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 2,285399
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 3,341666
+--------------------------------
+Method: Metoda trapezów
+Result: 71,000031
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 3,424427
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 3,444724
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 6,837259
+--------------------------------
+Method: Metoda prostok¹tów
+Result: 2,930965
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 3957,429043
+--------------------------------
+Method: Metoda Monte Carlo
+Result: 0,625192
